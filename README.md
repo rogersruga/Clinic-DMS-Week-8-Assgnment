@@ -31,3 +31,8 @@ It is designed with relational database principles in mind, demonstrating one-to
    ```sql
    CREATE DATABASE clinic_db;
    USE clinic_db;
+
+
+##   Entity-Relationship Diagram (ERD)
+
+![alt text](image.png)
